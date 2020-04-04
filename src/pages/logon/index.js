@@ -1,5 +1,6 @@
 import React from 'react';
 import './styles.css'
+import { Link } from 'react-router-dom';
 import { FiLogIn } from 'react-icons/fi';
 
 import heroesImg from '../../assets/heroes.png';
@@ -20,10 +21,10 @@ export default function Logon() {
 
           <button className="button" type= "submit">Entrar</button>
 
-          <a href = "/register">
+          <Link className = "back-link"  to= "/register">
             <FiLogIn size = {16} color = "#E02041"/>
             Não tenho cadastro
-          </a>
+          </Link>
         </form>
 
 
