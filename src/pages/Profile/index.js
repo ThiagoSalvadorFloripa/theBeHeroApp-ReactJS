@@ -33,6 +33,69 @@ return (
                 <button type = "button">
                     <FiTrash2 size = {20} color = "#a8a8b3"/>
                 </button>
+            </li>
+
+            <li>
+                <strong>CASO:</strong>
+                <p>Caso teste1</p>
+
+                <strong>DESCRIÇÃO:</strong>
+                <p>Caso teste1</p>
+
+                <strong>VALOR:</strong>
+                <p>Caso teste1</p>
+
+                <button type = "button">
+                    <FiTrash2 size = {20} color = "#a8a8b3"/>
+                </button>
+
+            </li>
+
+            <li>
+                <strong>CASO:</strong>
+                <p>Caso teste1</p>
+
+                <strong>DESCRIÇÃO:</strong>
+                <p>Caso teste1</p>
+
+                <strong>VALOR:</strong>
+                <p>Caso teste1</p>
+
+                <button type = "button">
+                    <FiTrash2 size = {20} color = "#a8a8b3"/>
+                </button>
+
+            </li>
+
+            <li>
+                <strong>CASO:</strong>
+                <p>Caso teste1</p>
+
+                <strong>DESCRIÇÃO:</strong>
+                <p>Caso teste1</p>
+
+                <strong>VALOR:</strong>
+                <p>Caso teste1</p>
+
+                <button type = "button">
+                    <FiTrash2 size = {20} color = "#a8a8b3"/>
+                </button>
+
+            </li>
+
+            <li>
+                <strong>CASO:</strong>
+                <p>Caso teste1</p>
+
+                <strong>DESCRIÇÃO:</strong>
+                <p>Caso teste1</p>
+
+                <strong>VALOR:</strong>
+                <p>Caso teste1</p>
+
+                <button type = "button">
+                    <FiTrash2 size = {20} color = "#a8a8b3"/>
+                </button>
 
             </li>
         </ul>
