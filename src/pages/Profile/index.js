@@ -11,7 +11,7 @@ return (
         <header>
             <img src = {logoImg} alt=" Be The Hero"/>
             <span>Bem vinda, APAD</span>
-            <Link className = 'button' to = "/inicident/new">Cadastrar novo caso</Link>
+            <Link className = 'button' to = "/incident/new">Cadastrar novo caso</Link>
             <button type = 'button'>
                 <FiPower size = {18} color = "#E02041"/>
             </button>
