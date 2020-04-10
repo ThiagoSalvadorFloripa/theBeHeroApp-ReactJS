@@ -27,7 +27,6 @@ export default function Logon() {
           </Link>
         </form>
 
-
       </section>
 
       <img src = {heroesImg} alt = "Heroes" />
@@ -35,5 +34,4 @@ export default function Logon() {
     </div>
   );
 }
-
 
